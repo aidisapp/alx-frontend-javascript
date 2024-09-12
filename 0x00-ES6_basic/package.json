@@ -1,0 +1,9 @@
+{
+  "name": "alx-frontend-javascript",
+  "version": "1.0.0",
+  "type": "module", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node ./tests/0-main.js"
+  }
+}
